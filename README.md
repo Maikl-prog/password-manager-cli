@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Maikl-prog/password-manager-cli)
 # 🔐 Password Manager CLI
 
 Консольный менеджер паролей с шифрованием. Все пароли хранятся в зашифрованном виде и доступны только по мастер-паролю.
